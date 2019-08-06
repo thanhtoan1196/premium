@@ -10,6 +10,8 @@
 
 ### [Yêu cầu về cách chia sẻ](https://github.com/beecost/jutsu/blob/master/open_source-c%C3%A1ch-marketing-s%E1%BA%A3n_ph%E1%BA%A9m-hi%E1%BB%87u_qu%E1%BA%A3.md#y%C3%AAu-c%E1%BA%A7u-v%E1%BB%81-c%C3%A1ch-chia-s%E1%BA%BB)
 
+### [Ví dụ thực hành](https://github.com/beecost/jutsu/blob/master/open_source-c%C3%A1ch-marketing-s%E1%BA%A3n_ph%E1%BA%A9m-hi%E1%BB%87u_qu%E1%BA%A3.md#v%C3%AD-d%E1%BB%A5-th%E1%BB%B1c-h%C3%A0nh)
+
 
 **Note:** Thông tin còn có thể tối ưu hơn nhiều. Cần được bình luận, nhận xét, bổ sung.
 

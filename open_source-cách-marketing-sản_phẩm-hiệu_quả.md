@@ -118,3 +118,9 @@ Tính privacy của nút Like rất thấp, không lẽ nó vẫn cao hơn niề
 
 Chỉ cần copy [nội dung bài blog full](https://github.com/beecost/jutsu/blob/master/open_source-c%C3%A1ch-marketing-s%E1%BA%A3n_ph%E1%BA%A9m-hi%E1%BB%87u_qu%E1%BA%A3.md#b%C3%A0i-full-tr%C3%AAn-blog-c%C3%B4ng-ngh%E1%BB%87) vào các diễn đàn phù hợp. Ví dụ [bài trên kipalog.com](https://kipalog.com/posts/Khong-Duoc-Dung-nhung--cau-truc-co-san-cho-du-lieu-So).
 
+# Ví dụ thực hành
+
+Hãy xem một [bài chia sẻ về xử lý dữ liệu](https://www.facebook.com/groups/j2team.community/permalink/1000117133653740/) thi đại học. Đối tượng là các bạn đang học lập trình hoặc quan tâm tới dữ liệu. Chỉ một bài trong một group này (J2Team Community) đã mang lại cho chúng mình thêm 200 users.
+
+![image](https://engineer.beecost.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-06-at-15.47.13-1.png)
+
